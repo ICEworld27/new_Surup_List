@@ -1,0 +1,13 @@
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.exe
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.deps.json
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.runtimeconfig.json
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.runtimeconfig.dev.json
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.dll
+C:\Users\acern\source\repos\abs\abs\bin\Debug\netcoreapp3.1\abs.pdb
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.csprojAssemblyReference.cache
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.AssemblyInfoInputs.cache
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.AssemblyInfo.cs
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.csproj.CoreCompileInputs.cache
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.dll
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.pdb
+C:\Users\acern\source\repos\abs\abs\obj\Debug\netcoreapp3.1\abs.genruntimeconfig.cache
